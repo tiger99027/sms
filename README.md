@@ -16,7 +16,7 @@ pip install -U wxpy -i "https://pypi.doubanio.com/simple/"
 打开cmd命令行窗口，进入weChat目录，执行以下命令:
 python start.py
 
-2. 扫码登录
+2. 扫码登录(请慎重使用，有封号风险)
 执行启动命令后会自动弹出二维码图片，使用微信扫码二维码登录即可。
 
 
